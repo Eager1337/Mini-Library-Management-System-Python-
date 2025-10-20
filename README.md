@@ -1,3 +1,5 @@
+#ALUSINE G DUMBUYA - 905005223 
+
 # Mini Library Management System
 
 This Python project implements a basic Library Management System with the following features:
@@ -27,4 +29,5 @@ This Python project implements a basic Library Management System with the follow
 3. **Using the Functions**: You can also import the functions from `operations.py` into your own scripts.
 
 Make sure all files are in the same directory when running the demo or tests. The system uses simple in-memory data structures, so it resets on each run.
+
 
